@@ -1,16 +1,14 @@
-## Hi there 👋
+🌟 Bem-vindo(a) ao meu perfil no GitHub! 🌟
+👩‍💻 Sou Giulia, estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e inovação.
 
-<!--
-**GiuBonacchi/GiuBonacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sempre buscando aprender, explorar novos desafios e desenvolver projetos criativos.
+💡 Atualmente, estou expandindo minhas habilidades em desenvolvimento web e programação.
+✨ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
-Here are some ideas to get you started:
+## 🚀 Habilidades Técnicas  
+- Linguagens: HTML, CSS, JavaScript  
+- Ferramentas: VS Code, Git, GitHub 
+- Idiomas: Inglês Intermediário  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contato  
+- **Email:** giuliavfbonacchi@outlook.com
