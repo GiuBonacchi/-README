@@ -6,9 +6,9 @@
  ✨ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ## 🚀 Habilidades Técnicas  
-- Linguagens: HTML, CSS, JavaScript  
-- Ferramentas: VS Code, Git, GitHub 
-- Idiomas: Inglês Intermediário  
+- Linguagens: JAVA, HTML, CSS
+- Ferramentas: VS Code, Git, GitHub
+- Idiomas: Inglês (Intermediário) 
 
 ## 📬 Contato  
 - **Email:** giuliavfbonacchi@outlook.com
