@@ -6,7 +6,7 @@
  ✨ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ## 🚀 Habilidades Técnicas  
-- Linguagens: JAVA, HTML, CSS
+- Linguagens: JAVA, HTML, CSS, SQL
 - Ferramentas: VS Code, Git, GitHub
 - Idiomas: Inglês (Intermediário) 
 
